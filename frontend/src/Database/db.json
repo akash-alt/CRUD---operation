@@ -1,0 +1,39 @@
+{
+  "users": [
+    {
+      "name": "Akash",
+      "username": "akash1",
+      "email": "akash@gmail.com",
+      "phone": "9415081190",
+      "id": 1
+    },
+    {
+      "name": "kritika",
+      "username": "kritika2",
+      "email": "kritika@gmail.com",
+      "phone": "123455433",
+      "id": 4
+    },
+    {
+      "name": "Mohit",
+      "username": "Mohit1",
+      "email": "Mohit@gmail.com",
+      "phone": "4794554555",
+      "id": 5
+    },
+    {
+      "name": "salini",
+      "username": "salini1",
+      "email": "salini@gmail.com",
+      "phone": "465825462",
+      "id": 6
+    },
+    {
+      "name": "tanya",
+      "username": "tanya",
+      "email": "tanya@gmail.com",
+      "phone": "488655",
+      "id": 2
+    }
+  ]
+}
